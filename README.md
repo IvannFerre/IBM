@@ -2,4 +2,4 @@
 Here I write my LABS in the IBM Course for the Data Scientist certificate
 
 * My first LAB is called "Payton for Data Science", which belongs to the "Python for Data Science,AI,Development" unit
-* The second LAB includes "Tuples" and "Lists" files
+* The 2 weeks LAB includes "Tuples" , "Lists" and "Dictionaries"
